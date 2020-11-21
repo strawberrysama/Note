@@ -13,7 +13,7 @@
 
 算法大概从5月开始陆陆续续刷，中途6-8月因为一些个人问题断了，基本就是acwing基础班和leetcode刷题和周赛。
 
-![image-20201120110514663](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20201120110514663.png)
+![image-20201120110514663](https://github.com/strawberrysama/Note/blob/main/image-20201120110514663.png)
 
 leetcode大概刷了400多题，周赛打了20场，后面水平感觉有了进步，整体来说算法还算凑合，在笔面试里面没有因为算法吃亏，只有一道二叉搜索树转双向链表的优化没写出来，其余基本都过了。
 
